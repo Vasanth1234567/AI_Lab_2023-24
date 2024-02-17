@@ -1,4 +1,4 @@
-![Screenshot (251)](https://github.com/Vasanth1234567/AI_Lab_2023-24/assets/86919099/f244f52e-fd77-467a-bc17-3b53bd291354)# Ex.No: 2  Implementation of Depth First Search
+# Ex.No: 2  Implementation of Depth First Search
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
